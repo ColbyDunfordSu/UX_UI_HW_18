@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1502 867" style="enable-background:new 0 0 1502 867;" xml:space="preserve">
+<image style="overflow:visible;" width="1500" height="870" xlink:href="Telemed.jpg"  transform="matrix(1 0 0 1 -1 -2)">
+</image>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M1210.8,645.1l-232,68.3c-22.9,6.7-47.6-4.6-55.1-25.3l-187.8-516c-7.5-20.7,4.9-43,27.8-49.8l232-68.3
+			c22.9-6.7,47.6,4.6,55.1,25.3l187.8,516C1246.1,616,1233.7,638.3,1210.8,645.1z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="matrix(1 -2.980232e-08 0 1 0 -1.525879e-05)" style="clip-path:url(#SVGID_2_);">
+		
+			<image style="overflow:visible;" width="375" height="812" xlink:href="../../MyCode/17-Week/UX_UI_HW_19/img/portfolio/Home.png"  transform="matrix(0.84 -0.2475 0.2769 0.7607 711.7141 108.2198)">
+		</image>
+	</g>
+</g>
+</svg>
